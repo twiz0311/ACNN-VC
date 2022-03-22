@@ -1,2 +1,0 @@
-# ACNN-VC
-ACNN-VC demo
